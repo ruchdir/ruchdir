@@ -7,7 +7,7 @@ A passionate developer focused on building scalable web and mobile applications.
 - 👀 I’m interested in **Full Stack Web Development & Cross-Platform Mobile Apps**
 - 🌱 I’m currently learning **Advanced State Management & System Architecture**
 - 💞️ I’m looking to collaborate on **Open Source Flutter & PHP Projects**
-- 📫 How to reach me: **[Email](ruchdi.dev@gmail.com)**
+- 📫 How to reach me: **[ruchdi.dev@gmail.com](mailto:ruchdi.dev@gmail.com)**
 
 ---
 
