@@ -21,3 +21,4 @@ A passionate developer focused on building scalable web and mobile applications.
 
 ---
 *⭐️ From [RuchDi](https://github.com/ruchdir)*
+*[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-F48024?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19355951/ruchdi)*
